@@ -42,6 +42,7 @@ body {
 nav {
     background-color: var(--color-blue-1);
     padding: 10px 10%;
+    position: fixed;
 }
 nav ul {
     width: 100%;
